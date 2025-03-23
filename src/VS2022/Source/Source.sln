@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwapTwoVariables", "SwapTwoVariables\SwapTwoVariables.vcxproj", "{FEFAA0F9-977F-4E49-A110-E30EDDBBD312}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwapTwoVariables", "CPP\SwapTwoVariables\SwapTwoVariables.vcxproj", "{FEFAA0F9-977F-4E49-A110-E30EDDBBD312}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticProperty", "StaticProperty\StaticProperty.vcxproj", "{36AD2315-D427-411B-80C5-8FFA3448DDD2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticProperty", "CPP\StaticProperty\StaticProperty.vcxproj", "{36AD2315-D427-411B-80C5-8FFA3448DDD2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Threads", "Threads\Threads.vcxproj", "{6D143D8F-C67B-42A8-A110-842838DC9F5D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Threads", "CPP\Threads\Threads.vcxproj", "{6D143D8F-C67B-42A8-A110-842838DC9F5D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExternProperty", "ExternProperty", "{9AE3E0E6-C1A5-4055-9CA0-8B9851A453A3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExternProperty", "CPP\ExternProperty", "{9AE3E0E6-C1A5-4055-9CA0-8B9851A453A3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CProject", "CProject\CProject.vcxproj", "{F5FE264D-20B5-4A18-8F5B-EA2E7595465D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CProject", "CPP\ExternProperty\CProject\CProject.vcxproj", "{F5FE264D-20B5-4A18-8F5B-EA2E7595465D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainApp", "MainApp\MainApp.vcxproj", "{C87285D6-AA59-43B0-A5EB-AC25CB465D9C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainApp", "CPP\ExternProperty\MainApp\MainApp.vcxproj", "{C87285D6-AA59-43B0-A5EB-AC25CB465D9C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppProject", "CppProject\CppProject.vcxproj", "{287315E6-04B1-4C50-82B9-AB717D5D8F11}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppProject", "CPP\ExternProperty\CppProject\CppProject.vcxproj", "{287315E6-04B1-4C50-82B9-AB717D5D8F11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
