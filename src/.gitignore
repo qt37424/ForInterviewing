@@ -1,1 +1,15 @@
 /VS2022/Source/.vs/
+/VS2022/Source/x64/Debug
+/VS2022/Source/x64/Release
+/VS2022/Source/CProject/x64/Debug
+/VS2022/Source/CProject/x64/Release
+/VS2022/Source/CppProject/x64/Debug
+/VS2022/Source/CppProject/x64/Release
+/VS2022/Source/MainApp/x64/Debug
+/VS2022/Source/MainApp/x64/Release
+/VS2022/Source/StaticProperty/x64/Debug
+/VS2022/Source/StaticProperty/x64/Release
+/VS2022/Source/SwapTwoVariables/x64/Debug
+/VS2022/Source/SwapTwoVariables/x64/Release
+/VS2022/Source/Threads/x64/Debug
+/VS2022/Source/Threads/x64/Release
